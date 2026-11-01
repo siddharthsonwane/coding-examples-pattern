@@ -4,6 +4,9 @@ public class ReverseStringArray {
 	public static void main(String[] args) {
 		char[] example = {'i','n','d','i','a'};
 		System.out.println(reverse(example));
+		
+		String[] input = {"Java","Sprig","Anglar"};
+		
 	}
 
 	private static char[] reverse(char[] example) {
